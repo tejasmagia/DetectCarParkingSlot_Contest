@@ -1,0 +1,14 @@
+numpy
+scipy
+opencv-python
+pathlib
+json
+importlib
+scikit-learn
+argparse
+panda
+PIL
+tqdm
+keras
+pickle
+tensorflow
